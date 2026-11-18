@@ -1,0 +1,15 @@
+KPI,Value,Unit,Status
+Feeder utilization (peak),63.77,%,green
+Peak-to-average ratio,1.42,ratio,green
+PV penetration (peak),211.29,%,red
+PV curtailment,0.0,%,not modelled
+BESS SOC in green band (20-80%),29.76,% of time,info
+BESS SOC in amber band,70.24,% of time,info
+BESS SOC in red band,0.0,% of time,info
+BESS round-trip efficiency,91.6,%,green
+SAIDI (14 days),58.04,min/customer,needs utility target
+SAIFI (14 days),0.63,interruptions/customer,needs utility target
+Voltage compliance (bus-time samples),99.71,%,green
+Voltage unbalance,,%,not available (balanced model)
+Meter communication success,99.8,%,green
+Voltage alarm rate,3.72,% of intervals,amber
